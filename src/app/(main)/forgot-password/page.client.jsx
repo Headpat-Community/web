@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ErrorMessage, SuccessMessage } from "@/components/alerts";
 
 const ForgotPassword = () => {
   const [email, setEmail] = useState("");
@@ -52,8 +51,6 @@ const ForgotPassword = () => {
 
   return (
     <>
-      {success && <SuccessMessage attentionSuccess={success} />}
-      {error && <ErrorMessage attentionError={error} />}
       <div className="flex lg:pt-[200px] justify-center items-center px-6 py-12 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-sm flex flex-col justify-center">
           <Image
