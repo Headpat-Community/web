@@ -1,5 +1,3 @@
-import Client from './page.client';
-
 export const runtime = 'edge';
 
 export const metadata = {
@@ -9,7 +7,7 @@ export const metadata = {
 export default function Page() {
   return (
       <>
-        <Client/>
+        <h1>Test</h1>
       </>
   );
 }
