@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7e350a3-07ba-40db-8b8b-c535ca8dac13" name="Changes" comment="fix logout url">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2d4xCCcVkvAxLanj6RcPS1BJNeE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;appwrite&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.9.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.9.5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git/headpat/headpat.de&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\git\\headpat\\headpat.de\\node_modules\\prettier&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\git\\headpat\\headpat.de\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e350a3-07ba-40db-8b8b-c535ca8dac13" name="Changes" comment="" />
+      <created>1709281021693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709281021693</updated>
+      <workItem from="1709281023213" duration="7119000" />
+      <workItem from="1709288218303" duration="87000" />
+      <workItem from="1709288317518" duration="11394000" />
+      <workItem from="1709323400181" duration="8597000" />
+      <workItem from="1709332078375" duration="2751000" />
+      <workItem from="1709389134248" duration="303000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: server actions">
+      <option name="closed" value="true" />
+      <created>1709306744795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709306744795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test sdk">
+      <option name="closed" value="true" />
+      <created>1709331553646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709331553646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test sdk">
+      <option name="closed" value="true" />
+      <created>1709332098841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709332098841</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test sdk">
+      <option name="closed" value="true" />
+      <created>1709332516660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709332516660</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test sdk">
+      <option name="closed" value="true" />
+      <created>1709333949855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333949855</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test sdk">
+      <option name="closed" value="true" />
+      <created>1709334210594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709334210594</updated>
+    </task>
+    <task id="LOCAL-00007" summary="revert 1.4.10">
+      <option name="closed" value="true" />
+      <created>1709334391537</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709334391537</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix logout url">
+      <option name="closed" value="true" />
+      <created>1709335123431</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709335123431</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: server actions" />
+    <MESSAGE value="&quot;some changes&quot;" />
+    <MESSAGE value="test sdk" />
+    <MESSAGE value="revert 1.4.10" />
+    <MESSAGE value="fix logout url" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix logout url" />
+  </component>
+</project>
